@@ -1,0 +1,45 @@
+.navbar{
+    background: black;
+    color: white;
+    /*border-radius: 37px;*/
+    margin-left:1px;
+    margin-top: 3px;
+    width: 1518px;
+    height: 65px;
+    padding-top: 0px;
+}
+
+.navbar ul{
+    margin-top:-2px;
+    overflow: auto;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+
+.Logo{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+/*.statement{
+    font-weight: 800;
+    font-size: 33px;
+}
+
+.discount{
+    width: auto;
+    height:265px;
+}*/
+
+
