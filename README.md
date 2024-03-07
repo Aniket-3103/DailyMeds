@@ -47,7 +47,6 @@
 ![Screenshot (28)](https://github.com/Aniket-3103/DailyMeds/assets/152020923/789f0427-25a9-4708-b0c3-7a3467e78286)
 
 
-![Screenshot 2024-03-06 181614](https://github.com/Aniket-3103/DailyMeds/assets/152020923/37e5c369-6fc5-4b9b-9cfc-ffcaf3736ae2)
 
 
 ![Screenshot 2024-03-07 005621](https://github.com/Aniket-3103/DailyMeds/assets/152020923/973193d7-2373-4422-8e52-9548d53b1b76)
